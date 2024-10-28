@@ -1,0 +1,14 @@
+{
+  "name": "BariatricAssistant",
+  "version": "1.0.0",
+  "description": "BariatricAssistant",
+  "main": "index.js",
+  "repository": "https://github.com/MarsVersion/BariatricAssistantAnd",
+  "author": "MarsVersion",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "expo": "^51.0.38",
+    "react-native": "^0.76.0"
+  }
+}
